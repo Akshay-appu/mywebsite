@@ -241,8 +241,8 @@ section .title span::after{
 }
 .about .left img{
   height: 350px;
-  width: 200px;
-  object-fit: fill;
+  width: 250px;
+  object-fit: cover;
   border-radius: 10px;
 }
 .about-details .right{
@@ -457,7 +457,7 @@ footer .text span a:hover{
 @media (max-width: 900px) {
   .about .left img{
     height: 350px;
-    width: 350px;
+    width: 250px;
   }
 }
 
