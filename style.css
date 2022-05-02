@@ -241,7 +241,7 @@ section .title span::after{
 }
 .about .left img{
   height: 350px;
-  width: 300px;
+  width: 250px;
   object-fit: cover;
   border-radius: 12px;
 }
@@ -498,7 +498,7 @@ footer .text span a:hover{
     display: block;
   }
   .home .text-two{
-    font-size: 65px;
+    font-size:40px;
   }
   .home .text-three{
     font-size: 35px;
