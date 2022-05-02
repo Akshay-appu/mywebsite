@@ -241,9 +241,9 @@ section .title span::after{
 }
 .about .left img{
   height: 350px;
-  width: 250px;
+  width: 200px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 .about-details .right{
   width: 55%;
