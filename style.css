@@ -242,7 +242,7 @@ section .title span::after{
 .about .left img{
   height: 350px;
   width: 200px;
-  object-fit: cover;
+  object-fit: fill;
   border-radius: 10px;
 }
 .about-details .right{
